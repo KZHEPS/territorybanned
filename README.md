@@ -23,6 +23,7 @@ _**im trying to get into programming, im quite new to it, well how can i put it,
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&labelColor=black&logo=git&logoColor=F03C2E)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&labelColor=black&logo=redis&logoColor=FF4438)
 
